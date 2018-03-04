@@ -1,0 +1,1 @@
+const PriorityQueue = require('./packages/queues/PriorityQueue');

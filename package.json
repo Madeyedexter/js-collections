@@ -1,0 +1,26 @@
+{
+  "name": "js-collections",
+  "version": "1.0.0",
+  "description": "Java style collections for JavaScript",
+  "main": "js-collections.js",
+  "scripts": {
+    "test": " "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Madeyedexter/js-collections.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "collections",
+    "Map",
+    "Queue",
+    "List"
+  ],
+  "author": "Madeyedexter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Madeyedexter/js-collections/issues"
+  },
+  "homepage": "https://github.com/Madeyedexter/js-collections#readme"
+}
